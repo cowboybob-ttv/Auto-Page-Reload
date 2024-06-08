@@ -1,5 +1,5 @@
 # Auto-Page-Reload
-Reloads a webpage by simulating the ctrl + f5 hotkey every 60 seconds
+Reloads a webpage by simulating the ctrl + f5 hotkey every 1 hour
 
 To use: <br>
   Download and unzip the project. <br>
